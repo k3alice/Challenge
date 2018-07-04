@@ -1,0 +1,9 @@
+﻿にわか,person
+金,other
+焼肉,food
+人生,other
+K3,person
+中央線,place
+遅延,other
+山,place
+寿司,food

@@ -1,0 +1,4 @@
+﻿unity/C:\Program Files\Unity2\Editor\Unity.exe
+chrome/C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+firefox/C:\Program Files\Mozilla Firefox\firefox.exe
+
